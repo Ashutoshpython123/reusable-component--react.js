@@ -6,7 +6,7 @@ function Timer(props) {
   const [minute, setMinute] = useState('00')
   const [second, setSecond] = useState('00')
   const [timestart, setTimeStart] = useState(props.x)
-  const [timeend, setTimeEnd] = useState(1644486088000)
+  const [timeend, setTimeEnd] = useState(1647769447000)
   const [timerCheck, setTimerCheck] = useState(0);
 
   console.log(1)
