@@ -3,7 +3,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import Timer from "./Timer"
 
 function App() {
-  const timestamps = [1644486028000]
+  const timestamps = [1646822710000]
   const [time, setTIme] = useState(timestamps)
   
 console.log('hello')
